@@ -1,0 +1,2 @@
+= Hi
+:hp-image: http://github.com/<username>/<repositoryName>/images/a-cover-image.jpg
